@@ -47,9 +47,9 @@ const StatsCards = ({ data }: Props) => {
       {stats.map((stat) => (
         <div
           key={stat.label}
-          className="bg-neut-800 bg-blue-glow border border-white/10 rounded-xl p-4 flex flex-col items-start space-y-5"
+          className="bg-neut-800 bg-blue-glow border border-white/10 rounded-xl p-4 flex flex-col items-start space-y-5 overflow-hidden"
         >
-          <span className="text-neut-300 text-wrap">{stat.label}</span>
+          <span className="text-neut-300">{stat.label}</span>
           <span className="text-xl font-semibold">{stat.value}</span>
         </div>
       ))}
