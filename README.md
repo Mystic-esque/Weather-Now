@@ -11,7 +11,7 @@ The app provides accurate weather data powered by the **Open-Meteo API**, built 
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
   - [The Challenge](#the-challenge)
@@ -55,7 +55,7 @@ Users should be able to:
 
 - **Solution URL:** [https://www.frontendmentor.io/profile/Mystic-esque/solutions/](#)
 - **Live Site URL:** [https://your-weather-app.vercel.app](#)
-- **Repository:** [https://github.com/mystic/weather-app](#)
+- **Repository:** [https://github.com/mystic-esque/Weather-now](#)
 
 ---
 
