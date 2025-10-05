@@ -54,7 +54,7 @@ Users should be able to:
 ###  Links
 
 - **Solution URL:** [https://www.frontendmentor.io/profile/Mystic-esque/solutions/](#)
-- **Live Site URL:** [https://your-weather-app.vercel.app](#)
+- **Live Site URL:** [https://weather-now-myst.vercel.app](#)
 - **Repository:** [https://github.com/mystic-esque/Weather-now](#)
 
 ---
